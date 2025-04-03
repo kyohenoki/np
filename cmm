@@ -1,0 +1,3 @@
+
+// alias short-name="long-command"
+// alias runp="tsc np.ts && node np.js"
